@@ -1,4 +1,4 @@
-telegram: 29052672
+telegram: 
   api_id: 5249245559
   api_hash: "<312c86500a476df6135dab0223cb8f90>"
   token: "<6275216401:AAHE6NmuaI7QSr9ztEhP4hEiHB-jy_CObAM>"
@@ -7,7 +7,7 @@ telegram: 29052672
   url_validation_regexes:
     - "^http(s)?:\\/\\/.+$"
   allowed_users:
-    - id: 00000000000
+    - id: 29052672
       send_startup_message: !!bool True
       download_media_type: !!str "VIDEO"
       save_to_storage: !!bool False
